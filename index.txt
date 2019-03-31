@@ -1,5 +1,4 @@
 new
-<<<<<<< Updated upstream
-=======
 new sublime
->>>>>>> Stashed changes
+new new sublime
+
